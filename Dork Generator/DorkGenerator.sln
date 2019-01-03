@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DorkGenerator", "DorkGenerator\DorkGenerator.csproj", "{FF702618-5E78-482C-8790-59914F0F9237}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF702618-5E78-482C-8790-59914F0F9237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF702618-5E78-482C-8790-59914F0F9237}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF702618-5E78-482C-8790-59914F0F9237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF702618-5E78-482C-8790-59914F0F9237}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7F261F0-01E6-4F89-A507-C1CE9CB41B68}
+	EndGlobalSection
+EndGlobal

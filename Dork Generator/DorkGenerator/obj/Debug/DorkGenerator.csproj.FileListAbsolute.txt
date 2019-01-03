@@ -1,0 +1,22 @@
+C:\Users\Anil\source\repos\DorkGenerator\DorkGenerator\bin\Debug\DorkGenerator.exe.config
+C:\Users\Anil\source\repos\DorkGenerator\DorkGenerator\bin\Debug\DorkGenerator.exe
+C:\Users\Anil\source\repos\DorkGenerator\DorkGenerator\bin\Debug\DorkGenerator.pdb
+C:\Users\Anil\source\repos\DorkGenerator\DorkGenerator\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Anil\source\repos\DorkGenerator\DorkGenerator\obj\Debug\DorkGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Anil\source\repos\DorkGenerator\DorkGenerator\obj\Debug\DorkGenerator.Form1.resources
+C:\Users\Anil\source\repos\DorkGenerator\DorkGenerator\obj\Debug\DorkGenerator.Properties.Resources.resources
+C:\Users\Anil\source\repos\DorkGenerator\DorkGenerator\obj\Debug\DorkGenerator.csproj.GenerateResource.Cache
+C:\Users\Anil\source\repos\DorkGenerator\DorkGenerator\obj\Debug\DorkGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Anil\source\repos\DorkGenerator\DorkGenerator\obj\Debug\DorkGenerator.exe
+C:\Users\Anil\source\repos\DorkGenerator\DorkGenerator\obj\Debug\DorkGenerator.pdb
+C:\Users\Anil\OneDrive\Coded by Charles\DorkGenerator\DorkGenerator\bin\Debug\DorkGenerator.exe.config
+C:\Users\Anil\OneDrive\Coded by Charles\DorkGenerator\DorkGenerator\bin\Debug\DorkGenerator.exe
+C:\Users\Anil\OneDrive\Coded by Charles\DorkGenerator\DorkGenerator\bin\Debug\DorkGenerator.pdb
+C:\Users\Anil\OneDrive\Coded by Charles\DorkGenerator\DorkGenerator\obj\Debug\DorkGenerator.csprojAssemblyReference.cache
+C:\Users\Anil\OneDrive\Coded by Charles\DorkGenerator\DorkGenerator\obj\Debug\DorkGenerator.Form1.resources
+C:\Users\Anil\OneDrive\Coded by Charles\DorkGenerator\DorkGenerator\obj\Debug\DorkGenerator.Properties.Resources.resources
+C:\Users\Anil\OneDrive\Coded by Charles\DorkGenerator\DorkGenerator\obj\Debug\DorkGenerator.csproj.GenerateResource.cache
+C:\Users\Anil\OneDrive\Coded by Charles\DorkGenerator\DorkGenerator\obj\Debug\DorkGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Anil\OneDrive\Coded by Charles\DorkGenerator\DorkGenerator\obj\Debug\DorkGenerator.csproj.CopyComplete
+C:\Users\Anil\OneDrive\Coded by Charles\DorkGenerator\DorkGenerator\obj\Debug\DorkGenerator.exe
+C:\Users\Anil\OneDrive\Coded by Charles\DorkGenerator\DorkGenerator\obj\Debug\DorkGenerator.pdb
